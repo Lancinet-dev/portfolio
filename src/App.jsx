@@ -8,8 +8,7 @@ const PROFILE = {
   location: 'Conakry, Guinée',
   email: 'lancinetbalde21@gmail.com',
   github: 'https://github.com/Lancinet-dev',
-  // Numéro WhatsApp à renseigner (format wa.me, indicatif Guinée +224)
-  whatsapp: 'https://wa.me/224000000000',
+  whatsapp: 'https://wa.me/224623040543',
   photo:
     'https://res.cloudinary.com/de0xeqpj9/image/upload/v1780820247/file_0000000057c471f49582c65b78b6c5f0_zwfhkj.png',
 }
